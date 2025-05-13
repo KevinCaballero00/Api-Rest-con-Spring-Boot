@@ -1,0 +1,4 @@
+com\ApiRest\demo\Model\Tarea.class
+com\ApiRest\Repository\TareaRepository.class
+com\ApiRest\Controller\TareaController.class
+com\ApiRest\demo\ApiApplication.class
